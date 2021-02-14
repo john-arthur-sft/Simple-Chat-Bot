@@ -1,0 +1,6 @@
+
+
+	----------Note started----------
+Testing note function
+
+	----------End_of_the_note----------
